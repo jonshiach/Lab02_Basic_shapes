@@ -8,7 +8,7 @@ Install git if you haven't already done so ([instructions](https://github.com/gi
 git clone https://github.com/jonshiach/Lab02_Basic_shapes.git
 ```
 
-Or download the [zip file](https://github.com/jonshiach/Lab02_Basic_shapes/zipball/master/)
+Or download the [zip file](https://github.com/jonshiach/Lab02_Basic_shapes/zipball/master/), extract the files and rename the root folder `Lab02_Basic_shapes/`.
 
 ## Build instructions
 
