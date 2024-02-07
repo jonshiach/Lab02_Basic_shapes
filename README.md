@@ -1,4 +1,4 @@
-# Computer Graphics Coursework Template Files
+# Lab02 Basic Shapes
 
 ## Get the files
 
