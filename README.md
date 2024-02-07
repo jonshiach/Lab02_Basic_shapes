@@ -1,8 +1,18 @@
-# Computer Graphics Lab 2 - Drawing Basic Shapes in OpenGL
+# Computer Graphics Coursework Template Files
+
+## Get the files
+
+Install git if you haven't already done so ([instructions](https://github.com/git-guides/install-git)) and clone the repository the command prompt/terminal
+
+```
+git clone https://github.com/jonshiach/Lab02_Basic_shapes.git
+```
+
+Or download the [zip file](https://github.com/jonshiach/Lab02_Basic_shapes/zipball/master/)
 
 ## Build instructions
 
-1. Download and install <a href="https://www.cmake.org" target="_blank">CMake</a> and run it.
+1. Download, install and run <a href="https://www.cmake.org" target="_blank">CMake</a>.
 2. In the `Lab02_Basic_shapes/` folder create a folder and call it `build/`.
 3. Click on **Browse Source...** next to 'Where is the source code?' and select the `Lab02_Basic_shapes/` folder.
 4. Do the same for 'Where to build the binaries?' and select the `Lab02_Basic_shapes/build/` folder.
